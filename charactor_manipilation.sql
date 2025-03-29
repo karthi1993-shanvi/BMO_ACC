@@ -98,3 +98,6 @@ select rtrim (' oracle ') from dual; ==> ' oracle'
 
 select ltrim (' oracle ') from dual; ==> 'oracle '
 
+
+
+
